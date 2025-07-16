@@ -1,0 +1,55 @@
+h1{
+    color:brown;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    color:blue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    color:purple;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ul{
+    color:green;
+}
+img {
+    width: 80%;
+    max-width: 350px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+
+.destaque1 {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.destaque2 {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+#menu1 {
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+#menu2 {
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.conteudo-centralizado {
+  max-width: 900px;    
+  margin: 0 auto;      
+  padding: 20px;       
+  border: 1px solid #b8b6b6;
+}
